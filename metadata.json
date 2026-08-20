@@ -1,0 +1,6 @@
+{
+  "name": "NVIDIA Synapse",
+  "description": "An interactive AI Workspace Assistant providing daily workspace updates, scheduling conflict resolution, priority tracking, and market watch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
